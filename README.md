@@ -1,1 +1,1 @@
-# Note: this is soley for a class, as an excercise for using flexbox in practice
+# Note: this is solely for a class, as an exercise for using flexbox in practice
